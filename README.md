@@ -5,6 +5,8 @@ K-Digital Training 과정과 교내 프로젝트에서 웹서비스 4개와 Andr
 
 Email: ddd041128@gmail.com
 
+Portfolio: [aiwebprotfilo.vercel.app](https://aiwebprotfilo.vercel.app)
+
 <br>
 
 ### Tech Stack
@@ -38,6 +40,7 @@ Email: ddd041128@gmail.com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Tools · AI**&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -56,7 +59,7 @@ Email: ddd041128@gmail.com
 |---|---|---|---|
 | **[지출메이트](https://github.com/Seven-Eleven-team/seveneleven)** | 지출과 구독 서비스를 한곳에서 관리하는 웹서비스 | PM·최종 발표, 회원가입·로그인·커뮤니티, 마감 직전 팀원 기능의 저장 오류 수정 | 2026.03 ~ 06 · 7인<br>K-Digital Training 단기 |
 | **[PlanTrip](https://github.com/hoyoung6604/plantrip)** | 여행지 찾기부터 일정·후기까지 이어지는 여행 플래너 | 중반부터 팀장, 메인·로그인·후기·고객센터·관리자 화면, 4명의 코드를 세 차례 병합 | 2025.08 ~ 2026.03 · 4인<br>K-Digital Training 장기 |
-| **[학과별 노트북 추천](https://github.com/euna0428/Python_laptop_recommender_project)** | 학과·예산·운영체제를 고르면 노트북 5개를 추천하는 웹서비스 | 단독 개발: React 5단계 입력 화면, FastAPI API 4개, 추천 규칙 7,227건 검증 | 2026.03 ~ 06 · 개인 |
+| **[학과별 노트북 추천](https://github.com/euna0428/Python_laptop_recommender_project)** | 학과·예산·운영체제를 고르면 노트북 5개를 추천하는 웹서비스<br>[바로 써 보기](https://laptop-recommender-rosy.vercel.app) | 단독 개발: React 5단계 입력 화면, FastAPI API 4개, 추천 규칙 7,227건 검증, Vercel 배포 | 2026.03 ~ 06 · 개인 |
 | **[RoadSafe](https://github.com/euna0428/RoadSafe-BigData)** | 교통사고 위험구간 13,935개를 만들고, 경로 위 위험구간을 음성으로 알리는 웹서비스 | PM, 데이터 수집·전처리, 위험도 분석, Kakao 지도·경로 연동 | 2026.03 ~ 06 · 4인 |
 | **[Clo-ver](https://github.com/Bu-FitFlow/Clo-ver)** | 퍼스널 컬러·체형 진단과 의류 중고거래 Android 앱 | 조장, Kotlin·Jetpack Compose로 진단·홈·상품·채팅 화면, 팀원 PR 16건 병합 | 2026.03 ~ 06 · 8인<br>캡스톤 디자인 |
 | **[물류센터 DB](https://github.com/euna0428/CouPang-DB-Project)** | 알바생·물류센터·업무·근무 4개 테이블 설계와 SQL 25문제 | 개인 과제: ERD 설계, JOIN·HAVING·서브쿼리 작성 | 수업 과제 · 개인 |

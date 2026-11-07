@@ -5,7 +5,7 @@ K-Digital Training 과정과 교내 프로젝트에서 웹서비스 4개와 Andr
 
 Email: ddd041128@gmail.com
 
-Portfolio: [aiwebprotfilo.vercel.app](https://aiwebprotfilo.vercel.app)
+Portfolio: [aiwebprotflio.vercel.app](https://leeeunah-portfolio.vercel.app/)
 
 <br>
 
